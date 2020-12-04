@@ -8,10 +8,6 @@ public class SelectionSort
 	public int [] basicSelectionSort (int[] x)
 	{
 
-		int nom = 1;
-		nom = 0;
-
-		// REAL Test for Regulars
 
 	        for (int i = 0; i < x.length-1; i++)
 	        {
@@ -33,7 +29,7 @@ public class SelectionSort
 	       return x;
 	}
 
-	int food;
-	int food = 1;
-	// Test for Strange
+	int StrangeChange = 1;
+	//Yes
+
 }

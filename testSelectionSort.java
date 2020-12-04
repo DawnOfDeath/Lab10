@@ -18,7 +18,7 @@ public class testSelectionSort
 		testDuplicates();
 	}
 
-// Here is a comment edit for Regulars
+
 
 	public testSelectionSort() { }
 
@@ -73,9 +73,7 @@ public class testSelectionSort
 		assert arr[4] == Sortedarr[4];
 
 	}
-  int food;
-	int food = 1;
-	// Test for Strange
+
 	public void testMixed()
 	{
 		int[] arr = new int[5];
@@ -126,10 +124,8 @@ public class testSelectionSort
 		assert arr[3] == Sortedarr[3];
 		assert arr[4] == Sortedarr[4];
 
+		int StrangeChange = 1;
+		//Yes
 
-		int nom = 1;
-		nom = 0;
-
-		// REAL Test for Regulars
 	}
 }
